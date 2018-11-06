@@ -1,0 +1,17 @@
+D:\Project\super-hotel\AzureHotel\AzureHotel\bin\Debug\AzureHotel.exe.config
+D:\Project\super-hotel\AzureHotel\AzureHotel\bin\Debug\AzureHotel.exe
+D:\Project\super-hotel\AzureHotel\AzureHotel\bin\Debug\AzureHotel.pdb
+D:\Project\super-hotel\AzureHotel\AzureHotel\bin\Debug\AzureHotel.xml
+D:\Project\super-hotel\AzureHotel\AzureHotel\obj\Debug\AzureHotel.vbprojResolveAssemblyReference.cache
+D:\Project\super-hotel\AzureHotel\AzureHotel\obj\Debug\AzureHotel.fAwal.resources
+D:\Project\super-hotel\AzureHotel\AzureHotel\obj\Debug\AzureHotel.Resources.resources
+D:\Project\super-hotel\AzureHotel\AzureHotel\obj\Debug\AzureHotel.vbproj.GenerateResource.Cache
+D:\Project\super-hotel\AzureHotel\AzureHotel\obj\Debug\AzureHotel.exe
+D:\Project\super-hotel\AzureHotel\AzureHotel\obj\Debug\AzureHotel.xml
+D:\Project\super-hotel\AzureHotel\AzureHotel\obj\Debug\AzureHotel.pdb
+D:\Project\super-hotel\AzureHotel\AzureHotel\obj\Debug\AzureHotel.FDayVacation.resources
+D:\Project\super-hotel\AzureHotel\AzureHotel\obj\Debug\AzureHotel.Vacation.resources
+D:\Project\super-hotel\AzureHotel\AzureHotel\bin\Debug\MetroFramework.dll
+D:\Project\super-hotel\AzureHotel\AzureHotel\obj\Debug\AzureHotel.room.resources
+D:\Project\super-hotel\AzureHotel\AzureHotel\obj\Debug\AzureHotel.Menu1.resources
+D:\Project\super-hotel\AzureHotel\AzureHotel\obj\Debug\AzureHotel.CheckIn.resources
